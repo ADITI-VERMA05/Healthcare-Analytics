@@ -1,2 +1,2 @@
 # Healthcare-Analytics
-Predicting hospital readmissions for diabetes patients
+Predicting Hospital readmissions for diabetes patients
